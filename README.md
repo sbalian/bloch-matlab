@@ -14,9 +14,9 @@ Requirements:
 - MATLAB
 - Symbolic Toolbox in MATLAB
 
-Just run *bloch.m*. Do *help <function name>* for instructions.
+Just run `bloch.m`. Do `help <function name>` for instructions.
 
-You can find examples of usage in *examples/*.
+You can find examples of usage in `examples/`.
 
 ***bloch has been tested on Linux with MATLAB R2015b (8.6.0.267246) 64-bit.***
 
